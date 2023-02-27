@@ -1,0 +1,9 @@
+{
+	"name": "tba-api-client-typescript",
+	"module": "index.ts",
+	"type": "module",
+	"devDependencies": {
+		"isomorphic-fetch": "^3.0.0",
+		"url": "^0.11.0"
+	}
+}
